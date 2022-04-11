@@ -2,3 +2,4 @@ deneme.txt filter=lfs diff=lfs merge=lfs -text
 inek.txt filter=lfs diff=lfs merge=lfs -text
 can.txt filter=lfs diff=lfs merge=lfs -text
 dana.txt filter=lfs diff=lfs merge=lfs -text
+ns.txt filter=lfs diff=lfs merge=lfs -text
