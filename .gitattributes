@@ -9,3 +9,4 @@ m.txt filter=lfs diff=lfs merge=lfs -text
 c.txt filter=lfs diff=lfs merge=lfs -text
 z.txt filter=lfs diff=lfs merge=lfs -text
 Co_001_v1_Hunt_Go.set filter=lfs diff=lfs merge=lfs -text
+*.set filter=lfs diff=lfs merge=lfs -text
